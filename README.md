@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @himanshumakwana
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning node / react js
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hm896292@gmail.com
 
